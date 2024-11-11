@@ -1,75 +1,35 @@
-# Nuxt Minimal Starter
+<h1 align="left">Hey Developers👋</h1>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+###
 
-## Setup
+<p align="left">This is a SynchronizesTeams open project. To contribute to this project please create your own branch, or please fork this repository.</p>
 
-Make sure to install dependencies:
+###
+
+<h2 align="left">Prerequirements</h2>
+
+###
+
+<p align="left">1. This project require Node v18 or above. <a href="https://nodejs.org">Download</a></p> <br>
+<p>2. Clone this repository</p><br>
 
 ```bash
-# npm
+git clone https://github.com/SynchronizesTeams/Portofolio.git
+
+``` 
+<br>
+<p>3. Install the necessary package</p> <br>
+
+```bash
 npm install
+ ```
 
-# pnpm
-pnpm install
+###
 
-# yarn
-yarn install
+<h2 align="left">Thank you for participating in this project</h2>
 
-# bun
-bun install
-```
+###
 
-## Development Server
+<p align="left"></p>
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+###
