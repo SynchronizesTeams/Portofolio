@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">Tech</h2>
+
 - Nuxt 3
 - Vue 3
 - Tailwinds CSS
