@@ -37,6 +37,6 @@ npm install
 
 ###
 
-<p align="left"></p>
+<p align="left">Any kind of help is greatly appreciated</p>
 
 ###
